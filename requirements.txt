@@ -1,0 +1,8 @@
+beautifulsoup4==4.10.0
+bs4==0.0.1
+fonttools==4.33.2
+forex-python==1.8
+html5lib==1.1
+requests==2.26.0
+simplejson==3.17.6
+webencodings==0.5.1
